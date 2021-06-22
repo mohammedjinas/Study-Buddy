@@ -1,4 +1,4 @@
-# studybudy
+# studybuddy
 
 A New Flutter project.
 
